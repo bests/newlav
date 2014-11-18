@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -41,3 +42,13 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+=======
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+>>>>>>> 3f7938faccb59d63a037b6a8e339c406bef1a7de
